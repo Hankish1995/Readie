@@ -1,0 +1,64 @@
+.main-content-tasks {
+    width: 1340px;
+    margin: auto;
+    padding: 5em 0;
+}
+
+.inner-width-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 30px;
+}
+
+.tasks-heading {
+    border-radius: 20px;
+    padding: 5px 15px;
+    display: inline-block;
+    margin-bottom: 20px;
+
+}
+
+.grey {
+    background-color: #ff000059;
+}
+
+.pink {
+    background-color: #ffc0cb6b;
+}
+
+.orange {
+    background-color: #ffa500ab;
+}
+
+.yellow {
+    background-color: #ffff0059;
+}
+
+.purple {
+    background-color: #80008073;
+}
+
+.backlog {
+    text-align: center;
+}
+
+.to-do {
+    text-align: center;
+}
+
+.ready-for-start {
+    text-align: center;
+}
+
+.ongoing {
+    text-align: center;
+}
+
+.ready-for-test {
+    text-align: center;
+}
+
+.task-content {
+    background: #80808026;
+    box-shadow: 0px 0px 1px 0.2px;
+}

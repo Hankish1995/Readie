@@ -1,0 +1,148 @@
+.main-layout {
+    display: flex;
+    width: 100%;
+    padding: 5em 0;
+    margin: auto;
+}
+
+.reading-section {
+    width: 50%;
+    align-items: center;
+}
+
+.inner-section {
+    text-align: center;
+    margin-top: 115px;
+}
+
+p.reading-text {
+    text-align: center;
+    line-height: 15px;
+}
+
+p.reading-text {
+    font-size: 47px;
+    font-weight: bold;
+    color: rgb(var(--color_15));
+    font-family: poppins-semibold, poppins, sans-serif;
+}
+
+.image-section {
+    width: 50%;
+}
+
+.main-base {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 30px;
+}
+
+.main-base {
+    width: 1511px;
+    margin: auto;
+}
+
+.inner-card {
+    text-align: center;
+    background: #fff4f3;
+    padding: 3em;
+}
+
+.main-paragraph-text {
+    background: #fcf6cc;
+    padding: 195px;
+}
+
+span.main-paragraph-content {
+    text-align: center;
+}
+
+.main-paragraph-text {
+    text-align: center;
+}
+
+span.main-paragraph-content {
+    font-size: 23px;
+    letter-spacing: 0.05em;
+}
+
+.main-paragraph-image {
+    margin-top: 20px;
+}
+
+.main-paragraph-two {
+    text-align: center;
+    font-family: 'circular';
+    margin-top: 44px;
+}
+
+.margin-from-top {
+    margin-top : 20px
+}
+
+.main-ready {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1.ready-text {
+    font-family: system-ui;
+    font-size: 41px;
+}
+
+.main-ready-images {
+    width: 1600px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.ready-image {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 30px;
+    text-align: center;
+}
+
+.images-ready {
+    background-color: #fff4f3;;
+    padding: 50px;
+}
+
+.text-ready {
+    background-color: #fff4f3;;
+    padding: 80px;
+}
+
+p {
+    font-family: monospace;
+    line-height: 2;
+    margin-top: 0;
+}
+
+.yellow-card {
+    background-color: #fcf6cc;
+}
+
+.enc-image {
+    margin: auto;
+    padding: 50px;
+}
+
+.award-winning {
+    background-color: #fcf6cc;
+    text-align: center;
+}
+
+.grid-class {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 40px;
+}
+
+.award-win {
+    margin: 0;
+}
+
+img.enc-selected-image {
+    width: 100%;
+}
