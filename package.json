@@ -16,7 +16,8 @@
     "process": "^0.11.10"
   },
   "scripts": {
-    "start": "npx parcel index.html"
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
   },
   "author": "Hankish Lohia",
   "license": "ISC"
