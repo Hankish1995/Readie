@@ -11,3 +11,4 @@ export const main_paragraph_two_image = "https://static.wixstatic.com/media/c22c
 export const turtel_image = "https://static.wixstatic.com/media/c22c23_9419db809e2e44a09597065c670860eb~mv2.png/v1/crop/x_74,y_46,w_1267,h_871/fill/w_442,h_306,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/turtules.png"
 export const enc_auto_image = "https://static.wixstatic.com/media/c22c23_0262b559979546108e283d1b1ae77852~mv2_d_4096_2160_s_2.jpeg/v1/fill/w_1743,h_657,al_t,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_0262b559979546108e283d1b1ae77852~mv2_d_4096_2160_s_2.jpeg"
 export const prize_tag = "https://static.wixstatic.com/media/c22c23_9e8c7bd8762246e5aeec48b2211db891~mv2.png/v1/fill/w_105,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/badge.png"
+export const notion_image = "https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f468-200d-1f4bb.svg"

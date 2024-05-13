@@ -5,6 +5,7 @@ import ErrorPage from "../ErrorComponent/ErrorPage";
 import MainContent from "../MainContent/MainContent";
 import Tasks from "../Tasks/Tasks";
 import About from "../About/About";
+import NewTask from "../Tasks/NewTask";
 
 const AppRouter = createBrowserRouter([
     {
@@ -22,6 +23,10 @@ const AppRouter = createBrowserRouter([
             {
                 path: "/tasks",
                 element: <Tasks />
+            },
+            {
+                path: "/new-tasks",
+                element: <NewTask />
             }
         ],
         errorElement: <ErrorPage />

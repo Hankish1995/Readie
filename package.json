@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@use-gesture/react": "^10.3.1",
+    "firebase": "^10.11.1",
     "parcel": "^2.12.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -10,6 +12,7 @@
   "description": "this is the project which is used to manage the tasks",
   "main": "index.js",
   "devDependencies": {
+    "buffer": "^6.0.3",
     "process": "^0.11.10"
   },
   "scripts": {
